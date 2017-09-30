@@ -1,0 +1,9 @@
+C:\SoftwareProjects\FileSelector\FileSelector\bin\Debug\FileSelector.dll
+C:\SoftwareProjects\FileSelector\FileSelector\bin\Debug\FileSelector.pdb
+C:\SoftwareProjects\FileSelector\FileSelector\bin\Debug\System.Net.Http.dll
+C:\SoftwareProjects\FileSelector\FileSelector\bin\Debug\System.Net.Http.xml
+C:\SoftwareProjects\FileSelector\FileSelector\obj\Debug\FileSelector.csprojResolveAssemblyReference.cache
+C:\SoftwareProjects\FileSelector\FileSelector\obj\Debug\Ekstrand.Windows.Forms.FileDirSelector.resources
+C:\SoftwareProjects\FileSelector\FileSelector\obj\Debug\FileSelector.csproj.GenerateResource.Cache
+C:\SoftwareProjects\FileSelector\FileSelector\obj\Debug\FileSelector.dll
+C:\SoftwareProjects\FileSelector\FileSelector\obj\Debug\FileSelector.pdb

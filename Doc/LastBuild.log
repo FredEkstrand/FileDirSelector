@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2017.1.28.0" projectFile="C:\Users\frede\Documents\GitHub\SHFBcfgs\FileDirSelector.shfbproj" started="9/8/2017 11:09:39 PM">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;C:\Program Files\EWSoftware\Sandcastle Help File Builder\&#39;
+Locating components in the following folder(s):
+    C:\Users\frede\Documents\GitHub\SHFBcfgs
+    C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\
+    C:\Program Files\EWSoftware\Sandcastle Help File Builder\
+Using framework reflection data for &#39;.NET Framework 4.0&#39; located in &#39;C:\Program Files\EWSoftware\Sandcastle Help File Builder\Data\.NETFramework&#39;
+Using presentation style &#39;VS2015&#39; located in &#39;C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\VS2015&#39;
+Loading and initializing plug-ins...
+Lightweight Website Style Version 2017.1.28.0
+Copyright &#169; 2006-2017, Eric Woodruff, All Rights Reserved
+Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+-------------------------------
+Clearing any prior web/markdown output...
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: C:\SoftwareProjects\FileDirSelector\FileSelector\FileDirSelector.csproj
+    Found project &#39;C:\SoftwareProjects\FileDirSelector\FileSelector\FileDirSelector.csproj&#39;
+Source: C:\SoftwareProjects\FileDirSelector\FileSelector\bin\Release\FileDirSelector.dll
+    Found assembly &#39;C:\SoftwareProjects\FileDirSelector\FileSelector\bin\Release\FileDirSelector.dll&#39;
+Source: C:\SoftwareProjects\FileDirSelector\FileSelector\bin\Release\FileDirSelector.xml
+
+Parsing project files
+    Ignoring duplicate assembly file &#39;C:\SoftwareProjects\FileDirSelector\FileSelector\bin\Release\FileDirSelector.dll&#39;
+    Ignoring duplicate comments file &#39;C:\SoftwareProjects\FileDirSelector\FileSelector\bin\Release\FileDirSelector.XML&#39;
+
+References to include (excluding framework assemblies):
+    None
+
+Copying XML comments files
+    C:\SoftwareProjects\FileDirSelector\FileSelector\bin\Release\FileDirSelector.XML -&gt; C:\SoftwareProjects\FileDirSelector\Doc\Temp\FileDirSelector.XML
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+</plugIn>    Last step completed in 00:00:00.1563
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0625
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+    Last step completed in 00:00:00.2500
+</buildStep>
+<buildStep step="Canceled">
+
+SHFB: Error BE0064: BUILD CANCELLED BY USER
+
+</buildStep>
+</shfbBuild>

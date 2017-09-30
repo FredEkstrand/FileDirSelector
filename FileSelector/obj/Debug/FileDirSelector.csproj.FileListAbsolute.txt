@@ -1,0 +1,8 @@
+C:\SoftwareProjects\FileSelector\FileSelector\bin\Debug\FileDirSelector.XML
+C:\SoftwareProjects\FileSelector\FileSelector\bin\Debug\FileDirSelector.dll
+C:\SoftwareProjects\FileSelector\FileSelector\bin\Debug\FileDirSelector.pdb
+C:\SoftwareProjects\FileSelector\FileSelector\obj\Debug\Ekstrand.Windows.Forms.FileDirSelector.resources
+C:\SoftwareProjects\FileSelector\FileSelector\obj\Debug\Ekstrand.Windows.Forms.Properties.Resources.resources
+C:\SoftwareProjects\FileSelector\FileSelector\obj\Debug\FileDirSelector.csproj.GenerateResource.Cache
+C:\SoftwareProjects\FileSelector\FileSelector\obj\Debug\FileDirSelector.dll
+C:\SoftwareProjects\FileSelector\FileSelector\obj\Debug\FileDirSelector.pdb
