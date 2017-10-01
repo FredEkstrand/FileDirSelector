@@ -24,9 +24,12 @@ The download the VSIX or DLL [here](#)
 
 ### Screen Shots
 In the first screen shot below, shows two FileDirSelector with the top one have the button on the default right hand side and the bottom on the left hand side.
+
 ![Project type](https://github.com/FredEkstrand/ImageFiles/raw/master/fdc1.png )
+
 In the second screen shot below shows the select file path in the top FileDirSelector text box too short to show the entire path and is shorten.
 The bottom FileDirSelector shows the text box long enough to show the entire path to the file.The displayed shorten path doesn't alter the original path and can easily be retrieve programmability.
+
 ![Project type](https://github.com/FredEkstrand/ImageFiles/raw/master/fdc3.png )
 
 ## API
